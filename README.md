@@ -1,0 +1,2 @@
+# derin-ogrenme
+derin ogrenme
